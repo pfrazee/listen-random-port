@@ -1,0 +1,26 @@
+{
+  "name": "listen-random-port",
+  "version": "1.0.0",
+  "description": "Listen a node HTTP server on a random, unused port",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfraze/listen-random-port.git"
+  },
+  "keywords": [
+    "random",
+    "port"
+  ],
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfraze/listen-random-port/issues"
+  },
+  "homepage": "https://github.com/pfraze/listen-random-port#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
